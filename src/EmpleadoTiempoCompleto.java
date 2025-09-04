@@ -9,6 +9,9 @@ public class EmpleadoTiempoCompleto extends Empleado {
         this.sueldoBasico = sueldoBasico;
     }
 
+    public EmpleadoTiempoCompleto() {
+    }
+
     public int getAntiguedad() {
         return antiguedad;
     }

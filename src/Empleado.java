@@ -19,5 +19,4 @@ public abstract class Empleado
 
     public abstract double calcularPago();
 
-    public abstract double calcularPago(int horasTrabajadas, double precioPorHora);
 }
